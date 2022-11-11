@@ -5,7 +5,7 @@ I'm Adrian and this is my journal, where I write by sessions following the block
 I'm studying to become a blockchain developer within the next....
 
 
-
+<!--- This is a new entry -->
 ## nov 7, 2022
 > "Dwell on the beauty of life. Watch the stars, and see yourself running with them." —Marcus Aurelius
 
@@ -63,6 +63,39 @@ int main(void)
     }
 }
 ```
+
+
+<!--- This is a new entry -->
+## nov 10, 2022
+> "Excellence withers without an adversary." — Seneca
+
+### Day intro
+Today I worked on the final project for CoderHouse - Web Development, I have to clean up the SASS code and ensure style is done for desktop / media queries and what ever is remaining.
+
+### Problems encountered
+The first problem was that the mixin and include broke, so I had to check why it wasn't working.
+
+The second problem section html tag was being used incorrectly.
+
+The third the mixin/include breaks the npm run watch-css script
+
+### Solutions explored
+For the SASS issue, I searched first why it could have broken, but it appeared that the code was correct.
+
+For the usage of the section tag, searched on the correct usage and how to style semantic tags.
+
+For the third, I have not check what the issue was.
+### Successful solutions
+For the SASS issue, I just re-typed the code and the issue was resolved, I'm not sure why it broke.
+
+For the section, I left the semantic tags unstyled and applied style only to the divs.
+### Revisit
+I revisited SASS mixin and include tags and usage of semantic tag.
+
+### Lessons learned
+For the SASS issue, sometimes staff breaks, does not mean I'm wrong, trying again is a viable solution.
+
+For the semantic tags, I learned that those are left unstyled, and I only focused on the divs for that purpose.
 
 
 Markdown Guide
