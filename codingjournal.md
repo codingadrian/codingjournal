@@ -98,6 +98,26 @@ For the SASS issue, sometimes staff breaks, does not mean I'm wrong, trying agai
 For the semantic tags, I learned that those are left unstyled, and I only focused on the divs for that purpose.
 
 
+<!--- This is a new entry -->
+## nov 12, 2022
+> "First say to yourself what you would be; and then do what you have to do." — Epictetus
+
+### Day intro
+Today I worked again on the final project for CoderHouse - Web Development, I was able to wrap it up, finish the SASS and upload it.
+
+### Problems encountered
+I was not happy with the layout and how Bootstrap was deployed so I decided to review it.
+
+### Solutions explored
+I basically review the Bootstrap framework  and how container, container-fluid, row and column are handled and assigned.
+### Successful solutions
+After re-arranging the grid, I fixed all the other pages and was easy after that.
+### Revisit
+I revisited the Bootstrap framework and SASS variables to finish cleaning up the code.
+
+### Lessons learned
+How to apply Bootstrap tags for main grid and practice setting variables, using mixins and includes.
+
 Markdown Guide
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
