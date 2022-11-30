@@ -122,3 +122,23 @@ Markdown Guide
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c
+
+<!--- This is a new entry -->
+## nov 29, 2022
+> "I will keep constant watch over myself and‚ most usefully‚ will put each day up for review." — Seneca
+
+### Day intro
+Today I worked on the Credit exercise for CS50.
+
+### Problems encountered
+I left the code mid-way, and uncommented, I had to re-read and re-write. Also, I had to learn how to use get_long and actually get it to print for testing. I also had issued using and printing modulo and I have an issue about the code asking twice for entry.
+
+### Solutions explored
+I looked at the possible uses for get_long and found the CS50 Manual less-comfortable version, which provide more detailed information.
+### Successful solutions
+After properly implementing get_long, I was able to print to test the function. I'm still trying to figure out the double input request, I believe if has to do with the void parameter.
+### Revisit
+I found the CS50 Manual, and along google searches I got it to work, I'm avoiding postings specific to CS50 exercise.
+
+### Lessons learned
+Testing helps to avoid problems further down, also writing pseudocode or instructions prior to solution helps to outline the action plan.
